@@ -1,17 +1,18 @@
 
-███╗░░██╗███████╗████████╗░██╗░░░░░░░██╗░█████╗░██████╗░██╗░░██╗██████╗░██████╗░
-████╗░██║██╔════╝╚══██╔══╝░██║░░██╗░░██║██╔══██╗██╔══██╗██║░██╔╝██╔══██╗██╔══██╗
-██╔██╗██║█████╗░░░░░██║░░░░╚██╗████╗██╔╝██║░░██║██████╔╝█████═╝░██████╔╝██████╔╝
-██║╚████║██╔══╝░░░░░██║░░░░░████╔═████║░██║░░██║██╔══██╗██╔═██╗░██╔══██╗██╔═══╝░
-██║░╚███║███████╗░░░██║░░░░░╚██╔╝░╚██╔╝░╚█████╔╝██║░░██║██║░╚██╗██║░░██║██║░░░░░
-╚═╝░░╚══╝╚══════╝░░░╚═╝░░░░░░╚═╝░░░╚═╝░░░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░
+███████╗██╗░░██╗███╗░░░███╗███████╗████████╗██╗░░██╗░█████╗░██████╗░
+██╔════╝╚██╗██╔╝████╗░████║██╔════╝╚══██╔══╝██║░░██║██╔══██╗██╔══██╗
+█████╗░░░╚███╔╝░██╔████╔██║█████╗░░░░░██║░░░███████║██║░░██║██║░░██║
+██╔══╝░░░██╔██╗░██║╚██╔╝██║██╔══╝░░░░░██║░░░██╔══██║██║░░██║██║░░██║
+███████╗██╔╝╚██╗██║░╚═╝░██║███████╗░░░██║░░░██║░░██║╚█████╔╝██████╔╝
+╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚══════╝░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░╚═════╝░
 
-       Made In 2024
+       Made In 2025
 
-My Discord:https://discord.gg/k6PCNs9mFK
+My Discord: https://discord.gg/k6PCNs9mFK
+My github: https://github.com/Exmethod
+My Youtube: https://youtube.com/@ex_method
 
-
-This is a script made by NetworkRP or Ex_method if you copy this or use it in anyway without permission you will be tooken into legal actions.
+This script was made by Ex_method.
 
 
 
@@ -20,7 +21,7 @@ MIT License
 Copyright (c) 2024 Ex_method
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
+of this software and associated documentation files (the "ex-compass"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
