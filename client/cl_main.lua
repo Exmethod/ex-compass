@@ -46,9 +46,9 @@ Citizen.CreateThread(function()
             else
                 SendNUIMessage({ action = "hide", type = streetA })
             end
-            Citizen.Wait(0)
+            Citizen.Wait(250)
         end
         lastStreet = street
-        Citizen.Wait(0)
+        Citizen.Wait(250)
     end
 end)
