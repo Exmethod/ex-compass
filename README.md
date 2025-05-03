@@ -17,6 +17,8 @@ This script is a simple compass script that turns on when you enter a vehicle.
 
 To use simply drag and drop into your resource folder then ensure in your server.cfg and you are all set.
 
+Video on How to Install: https://youtu.be/-YtvWzKgEXA
+
 ---Links---
 
 My Discord: https://discord.gg/k6PCNs9mFK
